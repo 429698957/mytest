@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--配置生产者-->
+<bean init-method="start" destroy-method="shutdown" class="org.apache.rocketmq.client.producer.DefaultMQProducer">
+             <property name="producerGroup" value="spring_producer_group2"></property>
+             <property name="namesrvAddr" value="192.168.25.129:9876"></property>
+
+</bean>
+    <!--配置生产者组名-->
+
+    <!--设置服务端地址-->
+
+
+</beans>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--1.配置消费者对象-->
+    <bean class="org.apache.rocketmq.client.consumer.DefaultMQPushConsumer" init-method="start"
+          destroy-method="shutdown">
+        <!--2.namesrv-->
+        <property name="namesrvAddr" value="192.168.25.129:9876"></property>
+        <!--3.消费者组-->
+        <property name="consumerGroup" value="consumer_seckill_group"></property>
+        <!--4.订阅主题-->
+        <property name="subscription">
+            <map>
+                <entry key="TOPIC_SECKILL" value="*"></entry>
+            </map>
+        </property>
+        <!--5.模式 不配 默认集群 广播-->
+
+        <!--6.监听器-->
+        <property name="messageListener" ref="messageListener"></property>
+
+
+    </bean>
+
+    <bean class="com.pinyougou.seckill.listener.PageMessageListener" id="messageListener"></bean>
+
+</beans>

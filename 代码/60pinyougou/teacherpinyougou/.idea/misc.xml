@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/itheima-security-demo" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-content-service" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-manager-web" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-portal-web" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-sellergoods-service" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-shop-web" />
+    <file type="web" url="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-upload-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

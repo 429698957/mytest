@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+       <title>澳门赌场</title></head>
+<body>
+<!--我尼玛!!! 插值表达式-->
+
+
+<h1 style="color: red">我尼玛!!!</h1>
+<br/>
+<h1 style="color: red">zhangsan</h1>
+<br/>
+1000
+养鸟
+
+<br/>
+<div>
+    数据1
+</div>
+
+<table>
+
+    <tr>
+        <td>id</td>
+        <td>name</td>
+        <td>index</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>你好吗</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>你好buha吗</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>你a好吗</td>
+        <td>3</td>
+    </tr>
+</table>
+<br/>
+总记录数:3
+
+{"id":1,"name":"zhangsan"}
+
+</br>
+1
+zhangsan
+
+<br/>
+2019-7-9<br/>
+11:17:41<br/>
+2019-7-9 11:17:41<br/>
+
+2019/07/09 11:17:41
+
+舒服舒服师傅师傅师傅<br/>
+
+ 
+舒服舒服师傅师傅师傅
+<br>
+
+FreeMarker template error (DEBUG mode; use RETHROW in production!):
+For "#if" condition: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):
+==> 1  [in template "template.ftl" at line 75, column 6]
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: #if 1  [in template "template.ftl" at line 75, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.NonBooleanException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.Expression.modelToBoolean(Expression.java:142)
+	at freemarker.core.Expression.evalToBoolean(Expression.java:125)
+	at freemarker.core.Expression.evalToBoolean(Expression.java:110)
+	at freemarker.core.IfBlock.accept(IfBlock.java:46)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.pinyougou.App.main(App.java:42)

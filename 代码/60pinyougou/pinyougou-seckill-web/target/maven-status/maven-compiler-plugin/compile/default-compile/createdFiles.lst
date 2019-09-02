@@ -1,0 +1,5 @@
+com\pinyougou\seckill\controller\PageController.class
+com\pinyougou\seckill\controller\payController.class
+com\pinyougou\seckill\controller\SeckillGoodsController.class
+com\pinyougou\seckill\controller\SeckillOrderController.class
+com\pinyougou\seckill\security\UserDetailServiceImpl.class

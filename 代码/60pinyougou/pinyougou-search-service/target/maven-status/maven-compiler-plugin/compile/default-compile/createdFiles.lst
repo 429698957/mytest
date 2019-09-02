@@ -1,0 +1,4 @@
+com\pinyougou\search\dao\ItemDao.class
+com\pinyougou\search\listener\GoodsMessageListener.class
+com\pinyougou\search\service\impl\ItemSearchServiceImpl$1.class
+com\pinyougou\search\service\impl\ItemSearchServiceImpl.class

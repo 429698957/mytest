@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itheima-security-demo:war">
+    <output-path>D:/黑马相关/就业班/品优购07/代码/60pinyougou/itheima-security-demo/target</output-path>
+    <root id="archive" name="itheima-security-demo.war">
+      <element id="artifact" artifact-name="itheima-security-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

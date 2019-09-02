@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/itheima-security-demo/itheima-security-demo.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/itheima-security-demo/itheima-security-demo.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-common/pinyougou-common.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-common/pinyougou-common.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-content-interface/pinyougou-content-interface.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-content-interface/pinyougou-content-interface.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-content-service/pinyougou-content-service.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-content-service/pinyougou-content-service.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-core-service/pinyougou-core-service.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-core-service/pinyougou-core-service.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-dao/pinyougou-dao.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-dao/pinyougou-dao.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-manager-web/pinyougou-manager-web.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-manager-web/pinyougou-manager-web.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-parent/pinyougou-parent.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-parent/pinyougou-parent.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-pojo/pinyougou-pojo.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-pojo/pinyougou-pojo.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-portal-web/pinyougou-portal-web.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-portal-web/pinyougou-portal-web.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-shop-web/pinyougou-shop-web.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-shop-web/pinyougou-shop-web.iml" />
+      <module fileurl="file://D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-upload-web/pinyougou-upload-web.iml" filepath="D:/黑马相关/就业班/品优购07/代码/60pinyougou/pinyougou-upload-web/pinyougou-upload-web.iml" />
+    </modules>
+  </component>
+</project>
